@@ -1,0 +1,399 @@
+debug: place.lua keys=160
+debug: place.tsv regions=76
+debug: lexical rows in place.tsv=883
+debug: matched regions=76
+
+debug: per-region non-empty cell coverage vs extracted lexical features
+debug: region=ライチシカ nonEmptyCells=877 lexicalFeatures=1595 regularityFeatures=0
+debug: region=三石 nonEmptyCells=0 lexicalFeatures=1392 regularityFeatures=0
+debug: region=伏古 nonEmptyCells=14 lexicalFeatures=1140 regularityFeatures=0
+debug: region=八雲 nonEmptyCells=862 lexicalFeatures=1499 regularityFeatures=0
+debug: region=内路 nonEmptyCells=201 lexicalFeatures=1423 regularityFeatures=0
+debug: region=北見 nonEmptyCells=9 lexicalFeatures=1334 regularityFeatures=0
+debug: region=十勝 nonEmptyCells=15 lexicalFeatures=1123 regularityFeatures=0
+debug: region=千島 nonEmptyCells=1 lexicalFeatures=1503 regularityFeatures=0
+debug: region=千歳 nonEmptyCells=34 lexicalFeatures=1411 regularityFeatures=0
+debug: region=南千島 nonEmptyCells=124 lexicalFeatures=1190 regularityFeatures=0
+debug: region=占守 nonEmptyCells=412 lexicalFeatures=1503 regularityFeatures=0
+debug: region=厚真 nonEmptyCells=7 lexicalFeatures=1419 regularityFeatures=0
+debug: region=名寄 nonEmptyCells=817 lexicalFeatures=1301 regularityFeatures=0
+debug: region=塘路 nonEmptyCells=8 lexicalFeatures=1473 regularityFeatures=0
+debug: region=多来加 nonEmptyCells=57 lexicalFeatures=1442 regularityFeatures=0
+debug: region=多蘭泊 nonEmptyCells=258 lexicalFeatures=1257 regularityFeatures=0
+debug: region=天塩 nonEmptyCells=41 lexicalFeatures=1250 regularityFeatures=0
+debug: region=宗谷 nonEmptyCells=803 lexicalFeatures=1284 regularityFeatures=0
+debug: region=室蘭 nonEmptyCells=5 lexicalFeatures=1413 regularityFeatures=0
+debug: region=富内 nonEmptyCells=35 lexicalFeatures=1241 regularityFeatures=0
+debug: region=屈斜路 nonEmptyCells=117 lexicalFeatures=1267 regularityFeatures=0
+debug: region=布伏内 nonEmptyCells=3 lexicalFeatures=1462 regularityFeatures=0
+debug: region=帯広 nonEmptyCells=828 lexicalFeatures=1140 regularityFeatures=0
+debug: region=幌別 nonEmptyCells=801 lexicalFeatures=1420 regularityFeatures=0
+debug: region=幌満 nonEmptyCells=5 lexicalFeatures=1398 regularityFeatures=0
+debug: region=幌筵 nonEmptyCells=1 lexicalFeatures=1508 regularityFeatures=0
+debug: region=平取 nonEmptyCells=205 lexicalFeatures=1512 regularityFeatures=0
+debug: region=広尾 nonEmptyCells=10 lexicalFeatures=1114 regularityFeatures=0
+debug: region=弥満別 nonEmptyCells=0 lexicalFeatures=1224 regularityFeatures=0
+debug: region=択捉 nonEmptyCells=0 lexicalFeatures=1190 regularityFeatures=0
+debug: region=斜里 nonEmptyCells=15 lexicalFeatures=1327 regularityFeatures=0
+debug: region=新冠 nonEmptyCells=211 lexicalFeatures=1430 regularityFeatures=0
+debug: region=新問 nonEmptyCells=40 lexicalFeatures=1427 regularityFeatures=0
+debug: region=日高 nonEmptyCells=19 lexicalFeatures=1514 regularityFeatures=0
+debug: region=旭川 nonEmptyCells=817 lexicalFeatures=1331 regularityFeatures=0
+debug: region=春採 nonEmptyCells=38 lexicalFeatures=1462 regularityFeatures=0
+debug: region=智来 nonEmptyCells=14 lexicalFeatures=1480 regularityFeatures=0
+debug: region=有珠 nonEmptyCells=8 lexicalFeatures=1349 regularityFeatures=0
+debug: region=根室 nonEmptyCells=210 lexicalFeatures=1415 regularityFeatures=0
+debug: region=様似 nonEmptyCells=237 lexicalFeatures=1403 regularityFeatures=0
+debug: region=江部乙 nonEmptyCells=6 lexicalFeatures=1325 regularityFeatures=0
+debug: region=沙流 nonEmptyCells=738 lexicalFeatures=1604 regularityFeatures=0
+debug: region=浦河 nonEmptyCells=15 lexicalFeatures=1400 regularityFeatures=0
+debug: region=白主 nonEmptyCells=6 lexicalFeatures=1280 regularityFeatures=0
+debug: region=白人 nonEmptyCells=5 lexicalFeatures=1131 regularityFeatures=0
+debug: region=白浜 nonEmptyCells=184 lexicalFeatures=1446 regularityFeatures=0
+debug: region=白浦 nonEmptyCells=346 lexicalFeatures=1474 regularityFeatures=0
+debug: region=白糠 nonEmptyCells=22 lexicalFeatures=1464 regularityFeatures=0
+debug: region=白老 nonEmptyCells=22 lexicalFeatures=1329 regularityFeatures=0
+debug: region=相浜 nonEmptyCells=7 lexicalFeatures=1446 regularityFeatures=0
+debug: region=真岡 nonEmptyCells=271 lexicalFeatures=1393 regularityFeatures=0
+debug: region=礼文 nonEmptyCells=42 lexicalFeatures=1399 regularityFeatures=0
+debug: region=穂別 nonEmptyCells=32 lexicalFeatures=1446 regularityFeatures=0
+debug: region=空念 nonEmptyCells=103 lexicalFeatures=105 regularityFeatures=0
+debug: region=網走 nonEmptyCells=6 lexicalFeatures=1347 regularityFeatures=0
+debug: region=美幌 nonEmptyCells=847 lexicalFeatures=1372 regularityFeatures=0
+debug: region=芽室 nonEmptyCells=5 lexicalFeatures=1137 regularityFeatures=0
+debug: region=荻伏 nonEmptyCells=12 lexicalFeatures=1401 regularityFeatures=0
+debug: region=萩野 nonEmptyCells=3 lexicalFeatures=1329 regularityFeatures=0
+debug: region=落帆 nonEmptyCells=216 lexicalFeatures=1246 regularityFeatures=0
+debug: region=藻琴 nonEmptyCells=0 lexicalFeatures=1347 regularityFeatures=0
+debug: region=虹別 nonEmptyCells=0 lexicalFeatures=1504 regularityFeatures=0
+debug: region=虻田 nonEmptyCells=14 lexicalFeatures=1355 regularityFeatures=0
+debug: region=豊浦 nonEmptyCells=1 lexicalFeatures=1284 regularityFeatures=0
+debug: region=貫気別 nonEmptyCells=201 lexicalFeatures=1498 regularityFeatures=0
+debug: region=足寄 nonEmptyCells=26 lexicalFeatures=1119 regularityFeatures=0
+debug: region=近文 nonEmptyCells=82 lexicalFeatures=1311 regularityFeatures=0
+debug: region=釧路 nonEmptyCells=517 lexicalFeatures=1478 regularityFeatures=0
+debug: region=長万部 nonEmptyCells=216 lexicalFeatures=1403 regularityFeatures=0
+debug: region=阿寒 nonEmptyCells=10 lexicalFeatures=1266 regularityFeatures=0
+debug: region=静内 nonEmptyCells=23 lexicalFeatures=1420 regularityFeatures=0
+debug: region=音更 nonEmptyCells=3 lexicalFeatures=1134 regularityFeatures=0
+debug: region=高島 nonEmptyCells=5 lexicalFeatures=1124 regularityFeatures=0
+debug: region=高江 nonEmptyCells=0 lexicalFeatures=1430 regularityFeatures=0
+debug: region=鵜城 nonEmptyCells=64 lexicalFeatures=1568 regularityFeatures=0
+debug: region=鵡川 nonEmptyCells=7 lexicalFeatures=1478 regularityFeatures=0
+
+Ainu dialect bulk classifier
+training_samples=76
+
+ライチシカ	gold=Sakhalin/WestCoast	pred=Sakhalin/EastCoast	match=macro	score=0.666	lex=0.534	reg=0.815	geo=0.663
+三石	gold=Hokkaido/DonanDoo	pred=Hokkaido/DonanDoo	match=sub	score=0.822	lex=0.711	reg=0.964	geo=0.777
+伏古	gold=Hokkaido/Doto	pred=Hokkaido/Doto	match=sub	score=0.407	lex=0.652	reg=0.000	geo=0.758
+八雲	gold=Hokkaido/DonanDoo	pred=Hokkaido/DonanDoo	match=sub	score=0.569	lex=0.476	reg=0.643	geo=0.648
+内路	gold=Sakhalin/EastCoast	pred=Sakhalin/EastCoast	match=sub	score=0.644	lex=0.583	reg=0.729	geo=0.599
+北見	gold=Hokkaido/Doto	pred=Hokkaido/Doto	match=sub	score=0.655	lex=0.640	reg=0.619	geo=0.797
+十勝	gold=Hokkaido/Doto	pred=Hokkaido/Doto	match=sub	score=0.430	lex=0.676	reg=0.000	geo=0.838
+千島	gold=Kuril/Hokubu	pred=Kuril/Hokubu	match=sub	score=0.989	lex=0.995	reg=1.000	geo=0.941
+千歳	gold=Hokkaido/DonanDoo	pred=Hokkaido/DonanDoo	match=sub	score=0.834	lex=0.704	reg=0.964	geo=0.873
+南千島	gold=Kuril/Nambu	pred=Kuril/Nambu	match=sub	score=0.546	lex=0.992	reg=0.000	geo=0.664
+占守	gold=Kuril/Hokubu	pred=Kuril/Hokubu	match=sub	score=0.989	lex=0.995	reg=1.000	geo=0.941
+厚真	gold=Hokkaido/DonanDoo	pred=Hokkaido/DonanDoo	match=sub	score=0.840	lex=0.703	reg=0.964	geo=0.917
+名寄	gold=Hokkaido/Dohoku	pred=Hokkaido/Dohoku	match=sub	score=0.364	lex=0.514	reg=0.000	geo=0.886
+塘路	gold=Hokkaido/Doto	pred=Hokkaido/Doto	match=sub	score=0.532	lex=0.594	reg=0.349	geo=0.833
+多来加	gold=Sakhalin/EastCoast	pred=Sakhalin/EastCoast	match=sub	score=0.629	lex=0.569	reg=0.729	geo=0.546
+多蘭泊	gold=Sakhalin/WestCoast	pred=Sakhalin/EastCoast	match=macro	score=0.682	lex=0.501	reg=0.889	geo=0.673
+天塩	gold=Hokkaido/Dohoku	pred=Sakhalin/WestCoast	match=no	score=0.517	lex=0.358	reg=0.722	geo=0.446
+宗谷	gold=Hokkaido/Dohoku	pred=Sakhalin/WestCoast	match=no	score=0.529	lex=0.364	reg=0.722	geo=0.510
+室蘭	gold=Hokkaido/DonanDoo	pred=Hokkaido/DonanDoo	match=sub	score=0.632	lex=0.577	reg=0.643	geo=0.768
+富内	gold=Sakhalin/EastCoast	pred=Sakhalin/EastCoast	match=sub	score=0.679	lex=0.505	reg=0.875	geo=0.678
+屈斜路	gold=Hokkaido/Doto	pred=Hokkaido/Doto	match=sub	score=0.667	lex=0.648	reg=0.619	geo=0.849
+布伏内	gold=Hokkaido/Doto	pred=Hokkaido/Doto	match=sub	score=0.585	lex=0.595	reg=0.429	geo=0.974
+帯広	gold=Hokkaido/Doto	pred=Hokkaido/Doto	match=sub	score=0.409	lex=0.655	reg=0.000	geo=0.761
+幌別	gold=Hokkaido/DonanDoo	pred=Hokkaido/DonanDoo	match=sub	score=0.636	lex=0.576	reg=0.643	geo=0.802
+幌満	gold=Hokkaido/DonanDoo	pred=Hokkaido/DonanDoo	match=sub	score=0.631	lex=0.691	reg=0.536	geo=0.706
+幌筵	gold=Kuril/Hokubu	pred=Kuril/Hokubu	match=sub	score=0.977	lex=0.987	reg=1.000	geo=0.889
+平取	gold=Hokkaido/DonanDoo	pred=Hokkaido/DonanDoo	match=sub	score=0.830	lex=0.687	reg=0.964	geo=0.900
+広尾	gold=Hokkaido/Doto	pred=Hokkaido/DonanDoo	match=macro	score=0.574	lex=0.564	reg=0.552	geo=0.665
+弥満別	gold=Sakhalin/EastCoast	pred=Sakhalin/EastCoast	match=sub	score=0.638	lex=0.451	reg=0.875	geo=0.565
+択捉	gold=Kuril/Nambu	pred=Kuril/Nambu	match=sub	score=0.546	lex=0.992	reg=0.000	geo=0.664
+斜里	gold=Hokkaido/Doto	pred=Hokkaido/Doto	match=sub	score=0.641	lex=0.633	reg=0.619	geo=0.725
+新冠	gold=Hokkaido/DonanDoo	pred=Hokkaido/DonanDoo	match=sub	score=0.828	lex=0.704	reg=0.964	geo=0.839
+新問	gold=Sakhalin/EastCoast	pred=Sakhalin/EastCoast	match=sub	score=0.635	lex=0.580	reg=0.700	geo=0.629
+日高	gold=Hokkaido/DonanDoo	pred=Hokkaido/DonanDoo	match=sub	score=0.828	lex=0.684	reg=0.964	geo=0.895
+旭川	gold=Hokkaido/Dohoku	pred=Hokkaido/DonanDoo	match=macro	score=0.670	lex=0.418	reg=0.966	geo=0.633
+春採	gold=Hokkaido/Doto	pred=Hokkaido/Doto	match=sub	score=0.566	lex=0.594	reg=0.429	geo=0.847
+智来	gold=Sakhalin/WestCoast	pred=Sakhalin/EastCoast	match=macro	score=0.727	lex=0.631	reg=0.815	geo=0.778
+有珠	gold=Hokkaido/DonanDoo	pred=Hokkaido/DonanDoo	match=sub	score=0.638	lex=0.596	reg=0.643	geo=0.750
+根室	gold=Hokkaido/Doto	pred=Hokkaido/DonanDoo	match=macro	score=0.591	lex=0.309	reg=0.966	geo=0.440
+様似	gold=Hokkaido/DonanDoo	pred=Hokkaido/DonanDoo	match=sub	score=0.630	lex=0.689	reg=0.536	geo=0.706
+江部乙	gold=Hokkaido/DonanDoo	pred=Hokkaido/DonanDoo	match=sub	score=0.669	lex=0.406	reg=0.964	geo=0.670
+沙流	gold=Hokkaido/DonanDoo	pred=Hokkaido/DonanDoo	match=sub	score=0.812	lex=0.648	reg=0.964	geo=0.900
+浦河	gold=Hokkaido/DonanDoo	pred=Hokkaido/DonanDoo	match=sub	score=0.635	lex=0.690	reg=0.536	geo=0.734
+白主	gold=Sakhalin/WestCoast	pred=Hokkaido/Dohoku	match=no	score=0.555	lex=0.619	reg=0.467	geo=0.600
+白人	gold=Hokkaido/Doto	pred=Hokkaido/Doto	match=sub	score=0.416	lex=0.666	reg=0.000	geo=0.777
+白浜	gold=Sakhalin/EastCoast	pred=Sakhalin/WestCoast	match=macro	score=0.729	lex=0.603	reg=0.833	geo=0.830
+白浦	gold=Sakhalin/EastCoast	pred=Sakhalin/WestCoast	match=macro	score=0.734	lex=0.610	reg=0.833	geo=0.841
+白糠	gold=Hokkaido/Doto	pred=Hokkaido/Doto	match=sub	score=0.527	lex=0.568	reg=0.349	geo=0.876
+白老	gold=Hokkaido/DonanDoo	pred=Hokkaido/DonanDoo	match=sub	score=0.665	lex=0.619	reg=0.643	geo=0.862
+相浜	gold=Sakhalin/EastCoast	pred=Sakhalin/WestCoast	match=macro	score=0.728	lex=0.602	reg=0.833	geo=0.825
+真岡	gold=Sakhalin/WestCoast	pred=Sakhalin/EastCoast	match=macro	score=0.723	lex=0.650	reg=0.815	geo=0.698
+礼文	gold=Hokkaido/DonanDoo	pred=Hokkaido/DonanDoo	match=sub	score=0.586	lex=0.496	reg=0.643	geo=0.705
+穂別	gold=Hokkaido/DonanDoo	pred=Hokkaido/DonanDoo	match=sub	score=0.831	lex=0.699	reg=0.964	geo=0.873
+空念	gold=Hokkaido/DonanDoo	pred=Hokkaido/DonanDoo	match=sub	score=0.708	lex=0.717	reg=0.964	geo=0.000
+網走	gold=Hokkaido/Doto	pred=Hokkaido/Doto	match=sub	score=0.641	lex=0.631	reg=0.619	geo=0.732
+美幌	gold=Hokkaido/Doto	pred=Hokkaido/Doto	match=sub	score=0.649	lex=0.629	reg=0.619	geo=0.788
+芽室	gold=Hokkaido/Doto	pred=Hokkaido/Doto	match=sub	score=0.404	lex=0.652	reg=0.000	geo=0.735
+荻伏	gold=Hokkaido/DonanDoo	pred=Hokkaido/DonanDoo	match=sub	score=0.637	lex=0.690	reg=0.536	geo=0.750
+萩野	gold=Hokkaido/DonanDoo	pred=Hokkaido/DonanDoo	match=sub	score=0.663	lex=0.619	reg=0.643	geo=0.849
+落帆	gold=Sakhalin/EastCoast	pred=Sakhalin/EastCoast	match=sub	score=0.678	lex=0.504	reg=0.875	geo=0.678
+藻琴	gold=Hokkaido/Doto	pred=Hokkaido/Doto	match=sub	score=0.646	lex=0.636	reg=0.619	geo=0.747
+虹別	gold=Hokkaido/Doto	pred=Hokkaido/Doto	match=sub	score=0.548	lex=0.574	reg=0.429	geo=0.790
+虻田	gold=Hokkaido/DonanDoo	pred=Hokkaido/DonanDoo	match=sub	score=0.635	lex=0.594	reg=0.643	geo=0.736
+豊浦	gold=Hokkaido/DonanDoo	pred=Hokkaido/DonanDoo	match=sub	score=0.637	lex=0.601	reg=0.643	geo=0.729
+貫気別	gold=Hokkaido/DonanDoo	pred=Hokkaido/DonanDoo	match=sub	score=0.821	lex=0.682	reg=0.964	geo=0.857
+足寄	gold=Hokkaido/Doto	pred=Hokkaido/Doto	match=sub	score=0.435	lex=0.678	reg=0.000	geo=0.868
+近文	gold=Hokkaido/Dohoku	pred=Hokkaido/Dohoku	match=sub	score=0.360	lex=0.560	reg=0.000	geo=0.719
+釧路	gold=Hokkaido/Doto	pred=Hokkaido/Doto	match=sub	score=0.534	lex=0.594	reg=0.349	geo=0.847
+長万部	gold=Hokkaido/DonanDoo	pred=Hokkaido/DonanDoo	match=sub	score=0.581	lex=0.495	reg=0.643	geo=0.671
+阿寒	gold=Hokkaido/Doto	pred=Hokkaido/Doto	match=sub	score=0.676	lex=0.649	reg=0.619	geo=0.906
+静内	gold=Hokkaido/DonanDoo	pred=Hokkaido/DonanDoo	match=sub	score=0.827	lex=0.705	reg=0.964	geo=0.828
+音更	gold=Hokkaido/Doto	pred=Hokkaido/Doto	match=sub	score=0.413	lex=0.660	reg=0.000	geo=0.770
+高島	gold=Hokkaido/DonanDoo	pred=Hokkaido/Doto	match=macro	score=0.436	lex=0.691	reg=0.000	geo=0.835
+高江	gold=Hokkaido/DonanDoo	pred=Hokkaido/DonanDoo	match=sub	score=0.828	lex=0.704	reg=0.964	geo=0.839
+鵜城	gold=Sakhalin/WestCoast	pred=Sakhalin/EastCoast	match=macro	score=0.666	lex=0.548	reg=0.815	geo=0.624
+鵡川	gold=Hokkaido/DonanDoo	pred=Hokkaido/DonanDoo	match=sub	score=0.841	lex=0.694	reg=0.964	geo=0.953
+
+Macro accuracy: 73/76 = 0.961
+Subgroup accuracy: 61/76 = 0.803
+
+Feature summaries for labeled regions:
+Region: ライチシカ | gold=Sakhalin/WestCoast
+  lexical_features=1595 regularity_features=6
+  regularities: REG_V1V1_V1, REG_H_ZERO, REG_C1C2_C2C2_HC2, REG_RV_R, GROUP_SAKHALIN_FIRE_UNCI, SUPPORT_WAHKA
+Region: 三石 | gold=Hokkaido/DonanDoo
+  lexical_features=1392 regularity_features=1
+  regularities: REG_H_ZERO
+Region: 伏古 | gold=Hokkaido/Doto
+  lexical_features=1140 regularity_features=0
+  regularities: (none)
+Region: 八雲 | gold=Hokkaido/DonanDoo
+  lexical_features=1499 regularity_features=2
+  regularities: REG_V1V2_V2, REG_H_ZERO
+Region: 内路 | gold=Sakhalin/EastCoast
+  lexical_features=1423 regularity_features=6
+  regularities: REG_V1V1_V1, REG_H_ZERO, REG_C1C2_C2C2_HC2, SUPPORT_EDGE_FORM, REG_RV_R, GROUP_SAKHALIN_FIRE_UNCI
+Region: 北見 | gold=Hokkaido/Doto
+  lexical_features=1334 regularity_features=1
+  regularities: REG_ZERO_H
+Region: 十勝 | gold=Hokkaido/Doto
+  lexical_features=1123 regularity_features=0
+  regularities: (none)
+Region: 千島 | gold=Kuril/Hokubu
+  lexical_features=1503 regularity_features=1
+  regularities: GROUP_SAKHALIN_FIRE_UNCI
+Region: 千歳 | gold=Hokkaido/DonanDoo
+  lexical_features=1411 regularity_features=1
+  regularities: REG_H_ZERO
+Region: 南千島 | gold=Kuril/Nambu
+  lexical_features=1190 regularity_features=0
+  regularities: (none)
+Region: 占守 | gold=Kuril/Hokubu
+  lexical_features=1503 regularity_features=1
+  regularities: GROUP_SAKHALIN_FIRE_UNCI
+Region: 厚真 | gold=Hokkaido/DonanDoo
+  lexical_features=1419 regularity_features=1
+  regularities: REG_H_ZERO
+Region: 名寄 | gold=Hokkaido/Dohoku
+  lexical_features=1301 regularity_features=0
+  regularities: (none)
+Region: 塘路 | gold=Hokkaido/Doto
+  lexical_features=1473 regularity_features=3
+  regularities: REG_H_ZERO, REG_IW_UY, REG_ZERO_H
+Region: 多来加 | gold=Sakhalin/EastCoast
+  lexical_features=1442 regularity_features=6
+  regularities: REG_V1V1_V1, REG_H_ZERO, REG_C1C2_C2C2_HC2, SUPPORT_EDGE_FORM, REG_RV_R, GROUP_SAKHALIN_FIRE_UNCI
+Region: 多蘭泊 | gold=Sakhalin/WestCoast
+  lexical_features=1257 regularity_features=4
+  regularities: REG_V1V1_V1, REG_H_ZERO, REG_RV_R, GROUP_SAKHALIN_FIRE_UNCI
+Region: 天塩 | gold=Hokkaido/Dohoku
+  lexical_features=1250 regularity_features=3
+  regularities: REG_H_ZERO, REG_ZERO_H, GROUP_SAKHALIN_FIRE_UNCI
+Region: 宗谷 | gold=Hokkaido/Dohoku
+  lexical_features=1284 regularity_features=3
+  regularities: REG_H_ZERO, REG_ZERO_H, GROUP_SAKHALIN_FIRE_UNCI
+Region: 室蘭 | gold=Hokkaido/DonanDoo
+  lexical_features=1413 regularity_features=2
+  regularities: REG_V1V2_V2, REG_H_ZERO
+Region: 富内 | gold=Sakhalin/EastCoast
+  lexical_features=1241 regularity_features=4
+  regularities: REG_V1V1_V1, REG_H_ZERO, REG_RV_R, SUPPORT_WAHKA
+Region: 屈斜路 | gold=Hokkaido/Doto
+  lexical_features=1267 regularity_features=1
+  regularities: REG_ZERO_H
+Region: 布伏内 | gold=Hokkaido/Doto
+  lexical_features=1462 regularity_features=2
+  regularities: REG_IW_UY, REG_ZERO_H
+Region: 帯広 | gold=Hokkaido/Doto
+  lexical_features=1140 regularity_features=0
+  regularities: (none)
+Region: 幌別 | gold=Hokkaido/DonanDoo
+  lexical_features=1420 regularity_features=2
+  regularities: REG_V1V2_V2, REG_H_ZERO
+Region: 幌満 | gold=Hokkaido/DonanDoo
+  lexical_features=1398 regularity_features=2
+  regularities: REG_H_ZERO, REG_ZERO_H
+Region: 幌筵 | gold=Kuril/Hokubu
+  lexical_features=1508 regularity_features=1
+  regularities: GROUP_SAKHALIN_FIRE_UNCI
+Region: 平取 | gold=Hokkaido/DonanDoo
+  lexical_features=1512 regularity_features=1
+  regularities: REG_H_ZERO
+Region: 広尾 | gold=Hokkaido/Doto
+  lexical_features=1114 regularity_features=2
+  regularities: REG_H_ZERO, REG_ZERO_H
+Region: 弥満別 | gold=Sakhalin/EastCoast
+  lexical_features=1224 regularity_features=4
+  regularities: REG_V1V1_V1, REG_H_ZERO, REG_RV_R, SUPPORT_WAHKA
+Region: 択捉 | gold=Kuril/Nambu
+  lexical_features=1190 regularity_features=0
+  regularities: (none)
+Region: 斜里 | gold=Hokkaido/Doto
+  lexical_features=1327 regularity_features=1
+  regularities: REG_ZERO_H
+Region: 新冠 | gold=Hokkaido/DonanDoo
+  lexical_features=1430 regularity_features=1
+  regularities: REG_H_ZERO
+Region: 新問 | gold=Sakhalin/EastCoast
+  lexical_features=1427 regularity_features=5
+  regularities: REG_V1V1_V1, REG_C1C2_C2C2_HC2, SUPPORT_EDGE_FORM, REG_RV_R, GROUP_SAKHALIN_FIRE_UNCI
+Region: 日高 | gold=Hokkaido/DonanDoo
+  lexical_features=1514 regularity_features=1
+  regularities: REG_H_ZERO
+Region: 旭川 | gold=Hokkaido/Dohoku
+  lexical_features=1331 regularity_features=1
+  regularities: REG_H_ZERO
+Region: 春採 | gold=Hokkaido/Doto
+  lexical_features=1462 regularity_features=2
+  regularities: REG_IW_UY, REG_ZERO_H
+Region: 智来 | gold=Sakhalin/WestCoast
+  lexical_features=1480 regularity_features=6
+  regularities: REG_V1V1_V1, REG_H_ZERO, REG_C1C2_C2C2_HC2, REG_RV_R, GROUP_SAKHALIN_FIRE_UNCI, SUPPORT_WAHKA
+Region: 有珠 | gold=Hokkaido/DonanDoo
+  lexical_features=1349 regularity_features=2
+  regularities: REG_V1V2_V2, REG_H_ZERO
+Region: 根室 | gold=Hokkaido/Doto
+  lexical_features=1415 regularity_features=1
+  regularities: REG_H_ZERO
+Region: 様似 | gold=Hokkaido/DonanDoo
+  lexical_features=1403 regularity_features=2
+  regularities: REG_H_ZERO, REG_ZERO_H
+Region: 江部乙 | gold=Hokkaido/DonanDoo
+  lexical_features=1325 regularity_features=1
+  regularities: REG_H_ZERO
+Region: 沙流 | gold=Hokkaido/DonanDoo
+  lexical_features=1604 regularity_features=1
+  regularities: REG_H_ZERO
+Region: 浦河 | gold=Hokkaido/DonanDoo
+  lexical_features=1400 regularity_features=2
+  regularities: REG_H_ZERO, REG_ZERO_H
+Region: 白主 | gold=Sakhalin/WestCoast
+  lexical_features=1280 regularity_features=3
+  regularities: REG_H_ZERO, REG_ZERO_H, GROUP_SAKHALIN_FIRE_UNCI
+Region: 白人 | gold=Hokkaido/Doto
+  lexical_features=1131 regularity_features=0
+  regularities: (none)
+Region: 白浜 | gold=Sakhalin/EastCoast
+  lexical_features=1446 regularity_features=6
+  regularities: REG_V1V1_V1, REG_H_ZERO, REG_C1C2_C2C2_HC2, REG_RV_R, GROUP_SAKHALIN_FIRE_UNCI, SUPPORT_WAHKA
+Region: 白浦 | gold=Sakhalin/EastCoast
+  lexical_features=1474 regularity_features=6
+  regularities: REG_V1V1_V1, REG_H_ZERO, REG_C1C2_C2C2_HC2, REG_RV_R, GROUP_SAKHALIN_FIRE_UNCI, SUPPORT_WAHKA
+Region: 白糠 | gold=Hokkaido/Doto
+  lexical_features=1464 regularity_features=3
+  regularities: REG_H_ZERO, REG_IW_UY, REG_ZERO_H
+Region: 白老 | gold=Hokkaido/DonanDoo
+  lexical_features=1329 regularity_features=2
+  regularities: REG_V1V2_V2, REG_H_ZERO
+Region: 相浜 | gold=Sakhalin/EastCoast
+  lexical_features=1446 regularity_features=6
+  regularities: REG_V1V1_V1, REG_H_ZERO, REG_C1C2_C2C2_HC2, REG_RV_R, GROUP_SAKHALIN_FIRE_UNCI, SUPPORT_WAHKA
+Region: 真岡 | gold=Sakhalin/WestCoast
+  lexical_features=1393 regularity_features=6
+  regularities: REG_V1V1_V1, REG_H_ZERO, REG_C1C2_C2C2_HC2, REG_RV_R, GROUP_SAKHALIN_FIRE_UNCI, SUPPORT_WAHKA
+Region: 礼文 | gold=Hokkaido/DonanDoo
+  lexical_features=1399 regularity_features=2
+  regularities: REG_V1V2_V2, REG_H_ZERO
+Region: 穂別 | gold=Hokkaido/DonanDoo
+  lexical_features=1446 regularity_features=1
+  regularities: REG_H_ZERO
+Region: 空念 | gold=Hokkaido/DonanDoo
+  lexical_features=105 regularity_features=1
+  regularities: REG_H_ZERO
+Region: 網走 | gold=Hokkaido/Doto
+  lexical_features=1347 regularity_features=1
+  regularities: REG_ZERO_H
+Region: 美幌 | gold=Hokkaido/Doto
+  lexical_features=1372 regularity_features=1
+  regularities: REG_ZERO_H
+Region: 芽室 | gold=Hokkaido/Doto
+  lexical_features=1137 regularity_features=0
+  regularities: (none)
+Region: 荻伏 | gold=Hokkaido/DonanDoo
+  lexical_features=1401 regularity_features=2
+  regularities: REG_H_ZERO, REG_ZERO_H
+Region: 萩野 | gold=Hokkaido/DonanDoo
+  lexical_features=1329 regularity_features=2
+  regularities: REG_V1V2_V2, REG_H_ZERO
+Region: 落帆 | gold=Sakhalin/EastCoast
+  lexical_features=1246 regularity_features=4
+  regularities: REG_V1V1_V1, REG_H_ZERO, REG_RV_R, SUPPORT_WAHKA
+Region: 藻琴 | gold=Hokkaido/Doto
+  lexical_features=1347 regularity_features=1
+  regularities: REG_ZERO_H
+Region: 虹別 | gold=Hokkaido/Doto
+  lexical_features=1504 regularity_features=2
+  regularities: REG_IW_UY, REG_ZERO_H
+Region: 虻田 | gold=Hokkaido/DonanDoo
+  lexical_features=1355 regularity_features=2
+  regularities: REG_V1V2_V2, REG_H_ZERO
+Region: 豊浦 | gold=Hokkaido/DonanDoo
+  lexical_features=1284 regularity_features=2
+  regularities: REG_V1V2_V2, REG_H_ZERO
+Region: 貫気別 | gold=Hokkaido/DonanDoo
+  lexical_features=1498 regularity_features=1
+  regularities: REG_H_ZERO
+Region: 足寄 | gold=Hokkaido/Doto
+  lexical_features=1119 regularity_features=0
+  regularities: (none)
+Region: 近文 | gold=Hokkaido/Dohoku
+  lexical_features=1311 regularity_features=0
+  regularities: (none)
+Region: 釧路 | gold=Hokkaido/Doto
+  lexical_features=1478 regularity_features=3
+  regularities: REG_H_ZERO, REG_IW_UY, REG_ZERO_H
+Region: 長万部 | gold=Hokkaido/DonanDoo
+  lexical_features=1403 regularity_features=2
+  regularities: REG_V1V2_V2, REG_H_ZERO
+Region: 阿寒 | gold=Hokkaido/Doto
+  lexical_features=1266 regularity_features=1
+  regularities: REG_ZERO_H
+Region: 静内 | gold=Hokkaido/DonanDoo
+  lexical_features=1420 regularity_features=1
+  regularities: REG_H_ZERO
+Region: 音更 | gold=Hokkaido/Doto
+  lexical_features=1134 regularity_features=0
+  regularities: (none)
+Region: 高島 | gold=Hokkaido/DonanDoo
+  lexical_features=1124 regularity_features=0
+  regularities: (none)
+Region: 高江 | gold=Hokkaido/DonanDoo
+  lexical_features=1430 regularity_features=1
+  regularities: REG_H_ZERO
+Region: 鵜城 | gold=Sakhalin/WestCoast
+  lexical_features=1568 regularity_features=6
+  regularities: REG_V1V1_V1, REG_H_ZERO, REG_C1C2_C2C2_HC2, REG_RV_R, GROUP_SAKHALIN_FIRE_UNCI, SUPPORT_WAHKA
+Region: 鵡川 | gold=Hokkaido/DonanDoo
+  lexical_features=1478 regularity_features=1
+  regularities: REG_H_ZERO
+
+Unlabeled regions in TSV:
+
+Saved: similarity_matrix.tsv, distance_matrix.tsv, region_summary.tsv, mds_scatter.tsv
