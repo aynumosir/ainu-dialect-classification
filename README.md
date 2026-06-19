@@ -1,2 +1,2 @@
 # ainu-dialect-classification
-![figure](2026-06-19_LSJ172/figure.png)
+![figure](2026-06-27_LSJ172/figure.png)
